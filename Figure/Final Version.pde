@@ -127,7 +127,7 @@ void animateAndDrawSun() {
   }
 
 
-// Toggles "weirdo's" movement when the 'c' key is pressed
+// Toggles "weirdo's" movement when the 'x' key is pressed
 void keyPressed() {
   if (key == 'x') {
     isMoving = !isMoving; // Toggle movement
